@@ -100,6 +100,7 @@ Die Bewertung des finalen logistischen Regressionsmodells ergab folgende Resulta
 Das vollständige Skript und die Ergebnisse (inklusive aller Grafiken) sind in den folgenden Dateien enthalten:
 * `R-Projekt-Final-DE.r`: Das R-Quellcode-Skript.
 * `R-Projekt-Final-DE.html`: Der gerenderte HTML-Bericht mit Code und Ausgaben.
+**Alternative**: Klicken Sie einfach folgender Link: <https://harmony-htw.github.io/Vorhersagemodell/R-Projekt-Final-DE.html>
 
 
 ## 👥 Team Members
